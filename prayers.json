@@ -1,0 +1,188 @@
+{
+    "pai-nosso": {
+        "title": "Pai Nosso",
+        "complete-prayer": "Pai Nosso que estais nos céus, santificado seja o vosso nome, venha a nós o vosso reino, seja feita a vossa vontade assim na terra como no céu. O pão nosso de cada dia nos dai hoje, perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tenha ofendido, e não nos deixei cair em tentação, mas livrai-nos do mal. Amém!",
+        "lines": [
+            {
+                "full-line": "Pai Nosso que estais nos céus,",
+                "missing-words": ["Nosso", "que", "estais", "nos"]
+            },
+            {
+                "full-line": "santificado seja o vosso nome,",
+                "missing-words": ["santificado", "vosso"]
+            },
+            {
+                "full-line": "venha a nós o vosso reino,",
+                "missing-words": ["venha", "nós", "vosso"]
+            },
+            {
+                "full-line": "seja feita a vossa vontade assim na terra como no céu.",
+                "missing-words": ["seja", "feita", "vossa", "terra", "céu"]
+            },
+            {
+                "full-line": "O pão nosso de cada dia nos dai hoje,",
+                "missing-words": ["pão", "nosso", "dai", "hoje"]
+            },
+            {
+                "full-line": "perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tenha ofendido,",
+                "missing-words": ["perdoai-nos", "nossas", "nós", "ofendido"]
+            },
+            {
+                "full-line": "e não nos deixeis cair em tentação,",
+                "missing-words": ["não", "nos", "deixeis", "tentação"]
+            },
+            {
+                "full-line": "mas livrai-nos do mal.",
+                "missing-words": ["livrai-nos", "mal"]
+            },
+            {
+                "full-line": "Amém!",
+                "missing-words": ["Amém"]
+            }
+        ]
+    },
+    "credo": {
+        "title": "Credo",
+        "complete-prayer": "Creio em Deus-Pai, todo poderoso, criador do céu e da terra e em Jesus Cristo seu único filho, Nosso Senhor que foi concebido pelo poder do Espírito Santo, nasceu da Virgem Maria, padeceu sob Poncio Pilatos, foi crucificado, morto e sepultado, desceu a mansão dos mortos, ressuscitou ao terceiro dia, subiu aos céus está sentado à direita de Deus Pai, todo poderoso, de onde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo, na Santa Igreja Católica, na comunhão dos Santos, na remissão dos pecados, na ressurreição da carne, na vida eterna. Amém!",
+        "lines": [
+            {
+                "full-line": "Creio em Deus-Pai, todo poderoso, criador do céu e da terra",
+                "missing-words": ["Creio", "todo", "criador"]
+            },
+            {
+                "full-line": "e em Jesus Cristo seu único filho, Nosso Senhor",
+                "missing-words": ["Jesus", "Cristo", "único", "Senhor"]
+            },
+            {
+                "full-line": "que foi concebido pelo poder do Espírito Santo,",
+                "missing-words": ["concebido", "poder", "Espírito", "Santo"]
+            },
+            {
+                "full-line": "nasceu da Virgem Maria, padeceu sob Poncio Pilatos,",
+                "missing-words": ["nasceu", "Virgem", "Maria", "Poncio", "Pilatos"]
+            },
+            {
+                "full-line": "foi crucificado, morto e sepultado, desceu à mansão dos mortos,",
+                "missing-words": ["crucificado", "sepultado", "mansão", "mortos"]
+            },
+            {
+                "full-line": "ressuscitou ao terceiro dia, subiu aos céus",
+                "missing-words": ["ressuscitou", "terceiro", "subiu", "céus"]
+            },
+            {
+                "full-line": "está sentado à direita de Deus Pai, todo poderoso,",
+                "missing-words": ["sentado", "direita", "todo", "poderoso"]
+            },
+            {
+                "full-line": "de onde há de vir a julgar os vivos e os mortos.",
+                "missing-words": ["julgar", "vivos", "mortos"]
+            },
+            {
+                "full-line": "Creio no Espírito Santo, na Santa Igreja Católica,",
+                "missing-words": ["Creio", "Espírito", "Santo", "Santa", "Católica"]
+            },
+            {
+                "full-line": "na comunhão dos Santos, na remissão dos pecados,",
+                "missing-words": ["comunhão", "Santos", "remissão", "pecados"]
+            },
+            {
+                "full-line": "na ressurreição da carne, na vida eterna.",
+                "missing-words": ["ressurreição", "carne", "vida", "eterna"]
+            },
+            {
+                "full-line": "Amém!",
+                "missing-words": ["Amém"]
+            }
+        ]
+    },
+     "salve-rainha": {
+        "title": "Salve Rainha",
+        "complete-prayer": "Salve Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria. Rogai por nós, santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Amém!",
+        "lines": [
+            {
+                "full-line": "Salve Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve!",
+                "missing-words": ["Salve", "Rainha", "misericórdia", "esperança", "salve"]
+            },
+            {
+                "full-line": "A vós bradamos, os degredados filhos de Eva.",
+                "missing-words": ["vós", "bradamos", "degredados", "Eva"]
+            },
+            {
+                "full-line": "A vós suspiramos, gemendo e chorando neste vale de lágrimas.",
+                "missing-words": ["suspiramos", "gemendo", "vale", "lágrimas"]
+            },
+            {
+                "full-line": "Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei.",
+                "missing-words": ["Eia", "advogada", "olhos", "misericordiosos", "volvei"]
+            },
+            {
+                "full-line": "E, depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre.",
+                "missing-words": ["desterro", "mostrai-nos", "Jesus", "bendito", "ventre"]
+            },
+            {
+                "full-line": "Ó clemente, ó piedosa, ó doce sempre Virgem Maria.",
+                "missing-words": ["clemente", "piedosa", "doce", "Virgem", "Maria"]
+            },
+            {
+                "full-line": "Rogai por nós, santa Mãe de Deus, para que sejamos dignos das promessas de Cristo.",
+                "missing-words": ["Rogai", "santa", "Mãe", "promessas", "Cristo"]
+            },
+            {
+                "full-line": "Amém!",
+                "missing-words": ["Amém"]
+            }
+        ]
+    },
+    "ave-maria": {
+        "title": "Ave Maria",
+        "complete-prayer": "Ave Maria, cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém!",
+        "lines": [
+            {
+                "full-line": "Ave Maria, cheia de graça, o Senhor é convosco.",
+                "missing-words": ["Ave", "Maria", "cheia", "graça", "Senhor", "convosco"]
+            },
+            {
+                "full-line": "Bendita sois vós entre as mulheres,",
+                "missing-words": ["Bendita", "sois", "vós", "mulheres"]
+            },
+            {
+                "full-line": "e bendito é o fruto do vosso ventre, Jesus.",
+                "missing-words": ["bendito", "fruto", "vosso", "ventre", "Jesus"]
+            },
+            {
+                "full-line": "Santa Maria, Mãe de Deus, rogai por nós, pecadores,",
+                "missing-words": ["Santa", "Maria", "Mãe", "Deus", "rogai", "pecadores"]
+            },
+            {
+                "full-line": "agora e na hora de nossa morte.",
+                "missing-words": ["agora", "hora", "nossa", "morte"]
+            },
+            {
+                "full-line": "Amém!",
+                "missing-words": ["Amém"]
+            }
+        ]
+    },
+    "santo-anjo": {
+        "title": "Santo Anjo",
+        "complete-prayer": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, me guarda, me governa, me ilumina. Amém!",
+        "lines": [
+            {
+                "full-line": "Santo Anjo do Senhor, meu zeloso guardador,",
+                "missing-words": ["Santo", "Anjo", "Senhor", "zeloso", "guardador"]
+            },
+            {
+                "full-line": "se a ti me confiou a piedade divina,",
+                "missing-words": ["se", "ti", "confiou", "piedade", "divina"]
+            },
+            {
+                "full-line": "sempre me rege, me guarda, me governa, me ilumina.",
+                "missing-words": ["sempre", "rege", "guarda", "governa", "ilumina"]
+            },
+            {
+                "full-line": "Amém!",
+                "missing-words": ["Amém"]
+            }
+        ]
+    }
+}
